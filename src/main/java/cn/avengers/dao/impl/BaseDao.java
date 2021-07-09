@@ -10,6 +10,9 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 
+/**
+ * DAO基础类
+ */
 public abstract class BaseDao {
 
     //使用DBUtils操作数据库
